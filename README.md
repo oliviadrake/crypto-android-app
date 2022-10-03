@@ -1,1 +1,1 @@
-# crypto-android-app
+# A CryptoCurrency App Written in Android Studio
