@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoCoin</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="error_msg">Please Connect To The Internet</string>
+    <string name="share_daily_roundup">Share Daily Roundup</string>
+    <string name="convert">CONVERT</string>
+</resources>
